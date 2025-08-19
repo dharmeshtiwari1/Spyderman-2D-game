@@ -1,13 +1,13 @@
-# game name ==>   Love Crush game
-# Love Game For Crush
-- Love Game | A Love game to fight with more Crush in HTML5, CSS3 and Javascript
+# game name ==>   spyderman run game
+# spyderman run game
+- run Game | A run game to fight with more girls in HTML5, CSS3 and Javascript
 <p align="center">
   <img src="/images/standing.png" height="30%" width="30%">
 </p>
 
 ---
 ## Special Notes
-### What is needed to Play `Love-game`
+### What is needed to Play `spyderman-game`
 - A Laptop, Computer or a Desktop with a keyboard
 - Specially a Keyboard
 - A web browser
@@ -33,8 +33,11 @@
 ---
 
 ### Browser support
-![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
+ ![Firefox](
+ ![IE]
+ ![Opera]
+ ![Safari]
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 ---
-#     make your own Love Crush game
+
